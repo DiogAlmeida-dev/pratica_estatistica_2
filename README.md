@@ -1,2 +1,1 @@
-# pratica_estatistica_2
-##Teste
+# Pratica Estatistica 2
